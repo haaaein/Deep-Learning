@@ -1,5 +1,5 @@
 # Deep-Learning
 
-📚 모두의 딥러닝 <조태호> 
+📚 Deep Learning for Everyone by <Jo Taeho>  
 
-딥러닝 간단한 개념 및 실습
+Introduction to Simple Concepts and Practical Exercises in Deep Learning
